@@ -1,0 +1,13 @@
+.container {
+  border: solid 1px black;
+  height: 45em;
+  width: 45em;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 1px 1px;
+  overflow: visible;
+}
+.item-1 {
+  border: solid salmon 1px;
+}
