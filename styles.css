@@ -11,3 +11,6 @@
 .item-1 {
   border: solid salmon 1px;
 }
+#grid-item {
+  border: 0.1px solid grey;
+}
